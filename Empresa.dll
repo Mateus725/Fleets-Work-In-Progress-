@@ -1,0 +1,35 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Class
+{
+    public class Empresa
+    {
+
+        public string endereco { get; set; }
+        public string razaoSocial { get; set; }
+        public string cnpj { get; set; }
+        public Contatos Contatos { get; set; }
+        public string ramoDeAtividade { get; set; }
+        public string nomeFantasia { get; set; }
+        public int nire { get; set; }
+        private List<Funcionario> funcionarios { get; set; }
+        private List<Funcionario> administradores { get; set; }
+
+
+        public void AlterarInformacoesEmpresa(string Endereco, Contato Contatos, string NomeFantasia, Funcionario Administratores)
+        {
+            this.endereco = Endereco;
+            this.Contatos = Contatos;
+            this.nomeFantasia = NomeFantasia;
+            this.administradores.Add(Administratores);
+
+
+        }
+
+    }
+
+}

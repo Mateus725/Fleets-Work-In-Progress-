@@ -1,0 +1,35 @@
+E:\pim 2\PIM 3º Semestre\Modelos\bin\Debug\netcoreapp2.1\Business.deps.json
+E:\pim 2\PIM 3º Semestre\Modelos\bin\Debug\netcoreapp2.1\Business.dll
+E:\pim 2\PIM 3º Semestre\Modelos\bin\Debug\netcoreapp2.1\Business.pdb
+E:\pim 2\PIM 3º Semestre\Modelos\bin\Debug\netcoreapp2.1\Fleets.exe
+E:\pim 2\PIM 3º Semestre\Modelos\bin\Debug\netcoreapp2.1\Fleets.pdb
+E:\pim 2\PIM 3º Semestre\Modelos\bin\Debug\netcoreapp2.1\Fleets.exe.config
+E:\pim 2\PIM 3º Semestre\Modelos\obj\Debug\netcoreapp2.1\Business.csprojAssemblyReference.cache
+E:\pim 2\PIM 3º Semestre\Modelos\obj\Debug\netcoreapp2.1\Business.csproj.CoreCompileInputs.cache
+E:\pim 2\PIM 3º Semestre\Modelos\obj\Debug\netcoreapp2.1\Business.AssemblyInfoInputs.cache
+E:\pim 2\PIM 3º Semestre\Modelos\obj\Debug\netcoreapp2.1\Business.AssemblyInfo.cs
+E:\pim 2\PIM 3º Semestre\Modelos\obj\Debug\netcoreapp2.1\Business.csproj.CopyComplete
+E:\pim 2\PIM 3º Semestre\Modelos\obj\Debug\netcoreapp2.1\Business.dll
+E:\pim 2\PIM 3º Semestre\Modelos\obj\Debug\netcoreapp2.1\Business.pdb
+C:\Users\mateu\Desktop\v0.0.7.4\PIM 3º Semestre\Modelos\bin\Debug\netcoreapp2.1\Business.deps.json
+C:\Users\mateu\Desktop\v0.0.7.4\PIM 3º Semestre\Modelos\bin\Debug\netcoreapp2.1\Business.dll
+C:\Users\mateu\Desktop\v0.0.7.4\PIM 3º Semestre\Modelos\bin\Debug\netcoreapp2.1\Business.pdb
+C:\Users\mateu\Desktop\v0.0.7.4\PIM 3º Semestre\Modelos\bin\Debug\netcoreapp2.1\Fleets.exe
+C:\Users\mateu\Desktop\v0.0.7.4\PIM 3º Semestre\Modelos\bin\Debug\netcoreapp2.1\Fleets.pdb
+C:\Users\mateu\Desktop\v0.0.7.4\PIM 3º Semestre\Modelos\bin\Debug\netcoreapp2.1\Fleets.exe.config
+C:\Users\mateu\Desktop\v0.0.7.4\PIM 3º Semestre\Modelos\obj\Debug\netcoreapp2.1\Business.csprojAssemblyReference.cache
+C:\Users\mateu\Desktop\v0.0.7.4\PIM 3º Semestre\Modelos\obj\Debug\netcoreapp2.1\Business.csproj.CoreCompileInputs.cache
+C:\Users\mateu\Desktop\v0.0.7.4\PIM 3º Semestre\Modelos\obj\Debug\netcoreapp2.1\Business.AssemblyInfoInputs.cache
+C:\Users\mateu\Desktop\v0.0.7.4\PIM 3º Semestre\Modelos\obj\Debug\netcoreapp2.1\Business.AssemblyInfo.cs
+C:\Users\mateu\Desktop\v0.0.7.4\PIM 3º Semestre\Modelos\obj\Debug\netcoreapp2.1\Business.csproj.CopyComplete
+C:\Users\mateu\Desktop\v0.0.7.4\PIM 3º Semestre\Modelos\obj\Debug\netcoreapp2.1\Business.dll
+C:\Users\mateu\Desktop\v0.0.7.4\PIM 3º Semestre\Modelos\obj\Debug\netcoreapp2.1\Business.pdb
+C:\Users\Mateus Marques\Desktop\v0.0.7.4\PIM 3º Semestre\Modelos\bin\Debug\netcoreapp2.1\Business.deps.json
+C:\Users\Mateus Marques\Desktop\v0.0.7.4\PIM 3º Semestre\Modelos\bin\Debug\netcoreapp2.1\Business.dll
+C:\Users\Mateus Marques\Desktop\v0.0.7.4\PIM 3º Semestre\Modelos\bin\Debug\netcoreapp2.1\Business.pdb
+C:\Users\Mateus Marques\Desktop\v0.0.7.4\PIM 3º Semestre\Modelos\obj\Debug\netcoreapp2.1\Business.csproj.CoreCompileInputs.cache
+C:\Users\Mateus Marques\Desktop\v0.0.7.4\PIM 3º Semestre\Modelos\obj\Debug\netcoreapp2.1\Business.AssemblyInfoInputs.cache
+C:\Users\Mateus Marques\Desktop\v0.0.7.4\PIM 3º Semestre\Modelos\obj\Debug\netcoreapp2.1\Business.AssemblyInfo.cs
+C:\Users\Mateus Marques\Desktop\v0.0.7.4\PIM 3º Semestre\Modelos\obj\Debug\netcoreapp2.1\Business.dll
+C:\Users\Mateus Marques\Desktop\v0.0.7.4\PIM 3º Semestre\Modelos\obj\Debug\netcoreapp2.1\Business.pdb
+C:\Users\Mateus Marques\Desktop\v0.0.7.4\PIM 3º Semestre\Modelos\obj\Debug\netcoreapp2.1\Business.csprojAssemblyReference.cache

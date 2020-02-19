@@ -1,0 +1,81 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Mateus Marques\\Desktop\\PIM 3º Semestre\\Modelos\\Modelos.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Mateus Marques\\Desktop\\PIM 3º Semestre\\Fleets\\Fleets.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Mateus Marques\\Desktop\\PIM 3º Semestre\\Fleets\\Fleets.csproj",
+        "projectName": "Fleets",
+        "projectPath": "C:\\Users\\Mateus Marques\\Desktop\\PIM 3º Semestre\\Fleets\\Fleets.csproj"
+      },
+      "frameworks": {
+        "net462": {}
+      }
+    },
+    "C:\\Users\\Mateus Marques\\Desktop\\PIM 3º Semestre\\Modelos\\Modelos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Mateus Marques\\Desktop\\PIM 3º Semestre\\Modelos\\Modelos.csproj",
+        "projectName": "Modelos",
+        "projectPath": "C:\\Users\\Mateus Marques\\Desktop\\PIM 3º Semestre\\Modelos\\Modelos.csproj",
+        "packagesPath": "C:\\Users\\Mateus Marques\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mateus Marques\\Desktop\\PIM 3º Semestre\\Modelos\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Mateus Marques\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Users\\Mateus Marques\\Desktop\\PIM 3º Semestre\\Fleets\\Fleets.csproj": {
+                "projectPath": "C:\\Users\\Mateus Marques\\Desktop\\PIM 3º Semestre\\Fleets\\Fleets.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.6.1, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
